@@ -7,6 +7,7 @@
 <body>
 
 <h1>Hello world!</h1>
+<div><img src="google.jpg" alt="Hello world by binu" style="width:100%;max-width:960px;"></div>
 <p>This is the first file in my new Git Repo. Regards Binu.</p>
 <p>I am binu learning the git with this Example file.</p>
 
